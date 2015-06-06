@@ -1,0 +1,7 @@
+if n  < = 1:
+  Reverse (int x):
+for 
+if x  <  y :
+ main(String[] args):
+print  "amira" 
+print  "hello world." 

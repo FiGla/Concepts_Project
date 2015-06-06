@@ -1,0 +1,12 @@
+class MainClass {
+public static void main(String[] args){
+System.out.println( "Hello, World!" );
+int x=5;
+String y="aya";
+Double d=2.4;
+void myfun(Object x){x*x;}
+void fun1(Object num){if(  num>0 ){return 1;}
+void fact(Object n){if(  n < 1 ){return 1;}
+else{return  n * fact(n - 1);}
+}
+}

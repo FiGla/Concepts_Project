@@ -1,0 +1,37 @@
+void  fabo (n){ 
+if( n  <= = 1){
+		return 1;
+}
+	return n*fabo(n-1);
+}
+void  Reverse (x){ 
+int y=5;
+for(int  i=0 ; i<x.size(); ++i ){
+if(f x  <  y ){
+			y=x
+}
+}
+	return y;
+}
+int  calc { 
+String choose = "do u want to add 1 or subtract 2 or multiply 3 or divide 4 ";
+String first = "enter first num";
+String sec = "enter sec num";
+if( choose  == = 1:){
+		return first+sec;
+}
+else if( choose  ==  2){
+		return first-sec;
+}
+else if( choose  ==  3){
+		return first*sec;
+}
+else if( choose  ==  4){
+		return first/sec;
+}
+else {
+System.out.println( "wrong input " );
+		calc()
+}
+}
+System.out.println( "hello world." );

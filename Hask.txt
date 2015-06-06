@@ -1,0 +1,10 @@
+Haskell
+module Main where
+main = putStrLn "Hello, World!"
+let x = 5
+let y = "aya"
+let d = 2.4
+myfun x=x*x
+fun1 num=if num>0 then 1 
+fact n=if n < 1 then 1 
+else n * fact(n - 1)

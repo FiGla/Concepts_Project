@@ -1,0 +1,32 @@
+Python
+def fabo (n):
+	if n <= 1
+		return 1
+	return n*fabo(n-1)
+
+def Reverse (x):
+	y=5
+	for i < len(x)
+		if x < y 
+			y=x
+	return y
+
+def calc :
+	choose = "do u want to add 1 or subtract 2 or multiply 3 or divide 4 "
+	first = "enter first num"
+	sec = "enter sec num"
+	if choose == 1:
+		return first+sec
+	elif choose == 2:
+		return first-sec
+	elif choose == 3:
+		return first*sec
+	elif choose == 4:
+		return first/sec
+	else :
+		print "wrong input "
+		calc()
+
+
+
+print "hello world."
